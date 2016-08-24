@@ -8,8 +8,8 @@ Super quick and dirty hacked up REPL, implemented entirely using the Rocky.js pu
 
 ## Usage
 
-- Run in one terminal: `pebble build && pebble install --emulator chalk --logs`
-- Run in a second terminal: `node server/index.js`
+- Run in one terminal: `node server/index.js`
+- Run in second terminal: `pebble build && pebble install --emulator chalk --logs`
 - As soon as the app is launched, the REPL will be available in the second terminal.
 
 ## Demo
